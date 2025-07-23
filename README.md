@@ -18,14 +18,6 @@ This project involves performing exploratory data analysis (EDA) on Airbnb listi
 * Identify potential factors that affect price and occupancy
 
 ---
-
-##  Dataset
-
-* **Source**: Inside Airbnb ([http://insideairbnb.com/](http://insideairbnb.com/)) or Kaggle
-* **City**: \[Specify city, e.g., New York, Bangalore, etc.]
-* **Size**: \~50,000+ listings
-* **Fields**: Listing ID, Name, Host ID, Room Type, Price, Minimum Nights, Number of Reviews, Availability, Neighbourhood, Latitude, Longitude
-
 ---
 
 ##  Tools & Libraries Used
